@@ -1,0 +1,53 @@
+.Entire {
+    width: 20%;
+    border: 2px;
+    margin: 2% auto;
+    background-color: bisque;
+    border-radius: 20px;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+.Adjust {
+    font-size: 22px;
+    margin-bottom: 3em;
+}
+.second h1{
+    font-size: 70px;
+    margin: 46.9px 20px 0 10px;
+}
+.second p {
+    font-size: 15px;
+    padding-bottom: 5px;
+    font-weight: 500;
+}
+.third {
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 4%;
+    padding-bottom: 10%;
+}
+button a {
+    color: black;
+    font-size: 18px;
+    font-weight: 550;   
+}
+button {
+    display: flex;
+    width: 60%;
+    justify-content: center;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 55px;
+    background-color: whitesmoke;
+}
+.fourth {
+    font-size: 18px;
+    font-weight: 500;
+}
+.fourth p {
+    font-size: 20px;
+}
+.table {
+    padding-bottom: 25%;
+}
